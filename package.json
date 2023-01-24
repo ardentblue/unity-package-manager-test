@@ -3,11 +3,26 @@
     "version": "1.0.0",
     "displayName": "Ardent Blue Test Package",
     "description": "A package to test compatibility between package manager and native plugins",
-    "unity":"2019.4",
+    "unity": "2019.4",
     "dependencies": {},
-    "keywords": ["test","native plugin"],
+    "keywords": [
+        "test",
+        "native plugin"
+    ],
     "author": {
         "name": "Rob Bothof",
         "email": "rob.bothof@ardentblue.com"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "Example Server 1",
+            "description": "An example of a Client Server setup",
+            "path": "Samples~/ExampleServer1"
+        },
+        {
+            "displayName": "Example Server 2",
+            "description": "An example of a Peer to peer setup",
+            "path": "Samples~/ExampleServer2"
+        }
+    ]
 }

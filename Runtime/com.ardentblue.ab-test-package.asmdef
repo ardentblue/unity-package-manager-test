@@ -1,5 +1,5 @@
 {
-    "name": "NewAssembly",
+    "name": "com.ardentblue.ab-test-package",
     "references": [],
     "includePlatforms": [
         "Editor",
