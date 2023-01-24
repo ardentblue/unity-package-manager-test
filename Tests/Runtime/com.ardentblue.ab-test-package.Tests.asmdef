@@ -1,0 +1,19 @@
+{
+    "name": "com.ardentblue.ab-test-package.Tests",
+    "references": [
+        "GUID:95fac0ec74312b64683a809e1cff0b8b",
+        "GUID:0acc523941302664db1f4e527237feb3",
+        "GUID:27619889b8ba8c24980f49ee34dbb44a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
