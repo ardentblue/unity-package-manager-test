@@ -1,6 +1,6 @@
 {
     "name": "com.ardentblue.ab-test-package",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "displayName": "Ardent Blue Test Package",
     "description": "A package to test compatibility between package manager and native plugins",
     "unity": "2019.4",
